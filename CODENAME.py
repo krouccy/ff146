@@ -34,4 +34,4 @@ async def on_message(message):
             await message.channel.send('안타깝게도 아직 사사게친구가 아니네요~')
     if message.content.startswith("!영업종료"):
         await message.channel.send("꼬튼은 이만 퇴근합니다.")
-client.run("NzU5MDI2NjAyMDI1MDI1NTM3.X23gmw.qMdlQjqxFTNUYKx6Ox275drANag")
+client.run("NzU5MDI2NjAyMDI1MDI1NTM3.X23gmw.r5Ogs6fi0fEtYioDblQ2GZsEBj4")
